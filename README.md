@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Luiz and I'm an IT Consultant, with experience in software development and devops
 - 👀 I'm interested in modern and new technologies of application development  
 - 🌱 I’m currently learning interesting devops tools like openshift and docker  
-- 💞️ I’m looking to collaborate on java, node, react and react-native projects, I love to work with applications and help people achieve something valuable for them  
+- 💞️ I’m looking to collaborate on java, node, react and react-native projects, I love to help people achievinng something valuable for them through technology  
 - 📫 If you want to talk with me just send me an email :)
 
 <!---
