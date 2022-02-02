@@ -2,7 +2,7 @@
 - 👀 I'm interested in modern and new technologies of application development  
 - 🌱 I’m currently learning interesting devops tools like openshift and docker  
 - 💞️ I’m looking to collaborate on java, node, react and react-native projects, I love to work with applications and help people achieve something valuable for them  
-- 📫 If you want to talk with me just send an email to lfmrod@gmail.com
+- 📫 If you want to talk with me just send me an email :)
 
 <!---
 lipezz/lipezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
