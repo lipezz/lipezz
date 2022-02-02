@@ -1,2 +1,2 @@
-👋 Software development and Devops 🌌
+👋 🌌
 
