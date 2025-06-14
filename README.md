@@ -4,7 +4,7 @@
 
 💡 I thrive in dynamic environments using agile methodologies, collaborating closely with people to deliver high-impact software solutions.
 
-✨ I'm passionate about:
+✨ I'm passionate about:<br>
 • Writing clean, maintainable code
 • Performance optimization 
 • Crafting intuitive and effective user experiences
