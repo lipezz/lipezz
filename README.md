@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Luiz
 
-🚀 With **15+ years** of experience in **Java development** and **6 years** working with **Node.js** and **React.js**, I specialize in designing robust backend systems and engaging web applications.
+🚀 With **15+ years** of experience in **Java development** and **6 years** in **Node.js** and **React.js** development, I specialize in designing robust backend systems and engaging web applications.
 
 💡 I thrive in dynamic environments using **agile methodologies**, collaborating closely with people to deliver high-impact software solutions.
 
