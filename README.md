@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Frozen Metal
+# 👋 Hi there! I'm Luiz
 
 🚀 With **15+ years** of experience in **Java development** and **6 years** working with **Node.js** and **React.js**, I specialize in designing robust backend systems and engaging web applications.
 
