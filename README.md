@@ -2,7 +2,7 @@
 
 🚀 With **15+ years** of experience in **Java development** and **6 years** working with **Node.js** and **React.js**, I specialize in designing backend systems and web applications.
 
-💡 I thrive in dynamic environments using **agile methodologies**, collaborating closely with people to deliver high-impact software solutions.
+💡 I gained experience working on dynamic environments using agile methodologies, collaborating closely with people.
 
 ✨ I'm passionate about:
 - Writing **clean, maintainable code**
