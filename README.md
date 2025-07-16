@@ -6,10 +6,10 @@
 
 ✨ I'm passionate about:
 - Writing **clean, maintainable code**
-- **Performance optimization** for seamless experiences
+- **Performance optimization** 
 - Crafting **intuitive and effective user interfaces**
-- **Knowledge sharing** to grow together
-- Generating real **value through software development**
+- **Knowledge sharing** 
+- Generating **value through software development**
 
 Let's connect and build amazing things! 🚀
 
