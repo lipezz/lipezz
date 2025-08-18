@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Luiz
 
-🚀 With **12+ years** of experience in **Java development** and **6 years** working with **Node.js** and **React.js**, 
+🚀 With **12 years** of experience in **Java development** and **6 years** working with **Node.js** and **React.js**, 
 I gained experience working on dynamic environments using agile methodologies, collaborating closely with people.
 
 ✨ I'm passionate about:
