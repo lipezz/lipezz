@@ -6,7 +6,7 @@
 - Writing clean, maintainable code
 - Collaborating closely with people 
 - Crafting intuitive user experiences
-- Generating value through software development
+- Generating value through software development by delivering high quality software that  meets clients needs
 
 Let's connect and build amazing things! 🚀
 
