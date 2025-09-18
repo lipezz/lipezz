@@ -1,14 +1,12 @@
 # 👋 Hi there! I'm Luiz
 
-🚀 With **12+ years** of experience in **Java development** and **6 years** working with **Node.js** and **React.js**, 
-I gained experience working on dynamic environments using agile methodologies, collaborating closely with people.
+🚀 I'm a Fullstack Software Engineer, and my expertise includes Node.js, React.js, TypeScript, JavaScript and Java development. That's what I love to do! With a strong background in backend architecture and API development, I also bring hands-on experience in production systems operations, working with tools such as GCP Apigee, Broadcom Apigateway, Unix, WebLogic, SOA, ELK, Docker and Aws.
 
 ✨ I'm passionate about:
-- Writing **clean, maintainable code**
-- **Performance optimization** 
-- Crafting **intuitive and effective user interfaces**
-- **Knowledge sharing** 
-- Generating **value through software development**
+- Writing clean, maintainable code
+- Collaborating closely with people 
+- Crafting intuitive user experiences
+- Generating value through software development
 
 Let's connect and build amazing things! 🚀
 
